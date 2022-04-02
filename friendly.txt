@@ -1,0 +1,3 @@
+IP:Ansu.aternos.me
+Port:17790
+name:friendly
